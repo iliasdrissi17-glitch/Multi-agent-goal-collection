@@ -21,7 +21,6 @@ How do you make a fleet of robots work efficiently together when they cannot com
 
 This project implements a decentralized multi-robot autonomy stack for cooperative pickup-and-delivery in warehouse environments. A one-shot global planner assigns work before execution begins; after that, each robot operates independently using only local perception, reactive conflict handling, and differential-drive control.
 
----
 
 ## At a glance
 
