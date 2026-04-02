@@ -12,7 +12,6 @@ The system combines one-shot task allocation, local motion planning, trajectory 
 - Real-time trajectory tracking
 
 ## Quick start
-```bash
 pip install -r requirements.txt
 python -m examples.run_demo
 **Global coordination once. Local intelligence thereafter.**
