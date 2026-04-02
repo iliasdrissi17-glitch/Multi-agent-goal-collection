@@ -66,13 +66,13 @@ Once the simulation starts, each robot runs independently and:
 ### Emergent multi-agent behavior
 ![](./assets/video/config1.gif)
 <p align="center">
-  <img src="assets/video/config1.gif" width="45%"/>
-  <img src="assets/video/config2.gif" width="45%"/>
+  <img src="video/config1.gif" width="45%"/>
+  <img src="video/config2.gif" width="45%"/>
 </p>
 
 <p align="center">
-  <img src="assets/video/config3.gif" width="45%"/>
-  <img src="assets/video/config4.gif" width="45%"/>
+  <img src="video/config3.gif" width="45%"/>
+  <img src="video/config4.gif" width="45%"/>
 </p>
 
 ### What these episodes show
