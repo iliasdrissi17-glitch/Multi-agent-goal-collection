@@ -1,5 +1,5 @@
 # Warehouse Multi-Agent Goal Collection
-```md
+
 Decentralized multi-robot autonomy stack for cooperative pickup-and-delivery under partial observability.
 
 The system combines one-shot task allocation, local motion planning, trajectory tracking, and conflict handling for differential-drive robots operating without runtime communication.
