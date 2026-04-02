@@ -1,5 +1,20 @@
 # Warehouse Multi-Agent Goal Collection
+```md
+Decentralized multi-robot autonomy stack for cooperative pickup-and-delivery under partial observability.
 
+The system combines one-shot task allocation, local motion planning, trajectory tracking, and conflict handling for differential-drive robots operating without runtime communication.
+
+## Key points
+- Decentralized execution
+- Local obstacle handling
+- Differential-drive control
+- Task allocation
+- Real-time trajectory tracking
+
+## Quick start
+```bash
+pip install -r requirements.txt
+python -m examples.run_demo
 **Global coordination once. Local intelligence thereafter.**
 
 How do you make a fleet of robots work efficiently together when they cannot communicate during execution, only observe a small and partially occluded portion of the world, and become permanently disabled after a single collision?
